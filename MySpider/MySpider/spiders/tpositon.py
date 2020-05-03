@@ -5,11 +5,8 @@ from MySpider.items import MyspiderItem
 
 
 # add remark
-<<<<<<< HEAD
-# fix 2
-=======
 # fix 1
->>>>>>> origin
+# fix 3
 class TpositonSpider(scrapy.Spider):
     name = 'tpositon'
     allowed_domains = ['tencent.com']
